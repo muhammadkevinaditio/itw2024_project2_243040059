@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+.banner {
+  background: url(https://img.freepik.com/free-photo/wifi-router-table-smart-connection_53876-98561.jpg?t=st=1736696908~exp=1736700508~hmac=2f8bf4f64f999a9d278ac1a5d0652f7428c0ba222738a45209312e6c8869e9e5&w=1060)
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    color: #ffffff;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.circle{
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #6c757d;
+}
+
+.circle i {
+  position: relative;
+  top: 40px;
+}
